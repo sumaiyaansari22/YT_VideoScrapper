@@ -1,0 +1,17 @@
+beautifulsoup4
+bs4
+certifi
+Click
+Flask
+Flask-Cors
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+opencv-python
+Pillow
+pymongo
+six
+soupsieve
+Werkzeug
